@@ -5,6 +5,7 @@ import ReactHookForm from './forms/ReactHookForm'
 function App() {
   // forms
   // mui - material ui
+  console.log('hello');
 
   return (
     <>
